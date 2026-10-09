@@ -73,7 +73,7 @@ None of these changes helped. The words Random Forest relies on most are fund, m
 | Test | Result |
 |---|---|
 | Evasion (leet-speak, odd spacing, hidden URLs) | trained models still catch 98.5% to 99.5% |
-| New channel: 5,572 SMS spam texts | trained models catch only 0.1% to 7.9% |
+| New channel: SMS (747 spam among 5,572 texts) | trained models catch only 0.1% to 7.9% of the spam |
 | Explanations that tell the reader what to do next | GPT 38 / 50, Gemini 0 / 50 |
 | Speed per email | trained models 15 to 61 ms, LLMs 2.5 to 3.7 s |
 
